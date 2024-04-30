@@ -1,0 +1,16 @@
+// console.log(Math.PI);
+// console.log(Math.E);
+let x = 3.21;
+let y = 2;
+// let z = Math.round(x);
+// let z = Math.floor(x);
+// let z = Math.ceil(x);
+//let z = Math.trunc(x);
+// let z = Math.pow(x, y);
+// let z = Math.log(x);
+// let z = Math.sin(x);
+// let z = Math.abs(x);
+let z = Math.sign(x);
+let t = Math.max(x, y, z);
+console.log(z);
+console.log(t);
