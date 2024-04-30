@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-image: url("ales-krivec-i5YZUelYH-k.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid; */
+  height: 100vh;
+}
+#clock {
+  font-family: monospace;
+  font-size: 6.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  backdrop-filter: blur(5px);
+  background-color: rgba(0, 0, 100%, 0.1);
+  width: 100%;
+}
