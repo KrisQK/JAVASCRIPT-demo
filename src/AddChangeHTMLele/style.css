@@ -1,0 +1,7 @@
+body {
+  font-family: Verdana;
+  font-size: 1em;
+}
+.box {
+  border: 3px solid black;
+}
