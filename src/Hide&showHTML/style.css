@@ -1,0 +1,10 @@
+body {
+  font-family: Verdana;
+  font-size: 1em;
+}
+#myImg {
+  width: 300px;
+}
+#myButton {
+  font-size: 2em;
+}
