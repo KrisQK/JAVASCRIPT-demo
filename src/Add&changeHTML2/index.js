@@ -13,3 +13,4 @@ const listItems = document.querySelectorAll("#fruits li");
 document.getElementById("fruits").insertBefore(newListItem, listItems[1]);
 
 document.getElementById("fruits").removeChild(newListItem);
+//
